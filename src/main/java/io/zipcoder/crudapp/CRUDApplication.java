@@ -1,6 +1,6 @@
 package io.zipcoder.crudapp;
 
-import org.h2.server.web.WebServlet;
+import org.h2.server.web.WebServlet; // bleh
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.web.servlet.ServletRegistrationBean;
